@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Lab2P45 {
+class Lab2P4 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter a value");
@@ -10,4 +10,5 @@ class Lab2P45 {
         System.out.println("Bitwise AND: " + (a & b));
         s.close();
     }
+
 }
